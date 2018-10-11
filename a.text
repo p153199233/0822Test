@@ -1,7 +1,0 @@
-//链接替换  为空则显示原生
-##about#https://www.baidu.com##about#
-
-//是否显示底部
-##showB#0##showB#
-
-
